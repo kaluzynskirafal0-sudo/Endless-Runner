@@ -1,5 +1,5 @@
 # Endless-Runner
-Simple endless runner about jumping through fences. This project was created as part of my learning process using Unity. Part of "Create with Code" course.
+Simple endless runner about jumping through fences. This project was created as part of my learning process using Unity (Part of "Create with Code" course). 
 
 Features:
 - Player jumping mechanic
